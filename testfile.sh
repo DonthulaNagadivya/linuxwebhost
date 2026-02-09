@@ -1,1 +1,1 @@
-echo "i am performing the rest"
+echo "i am performing the test on github"
